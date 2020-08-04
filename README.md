@@ -18,3 +18,5 @@ This code was written and tested in MATLAB R2019a. Required toolboxes:<br/>
 - Image Processing Toolbox<br/>
 - Statistics and Machine Learning Toolbox<br/>
 - Wavelet Toolbox<br/>
+
+![Structure of the program.](1.png)
